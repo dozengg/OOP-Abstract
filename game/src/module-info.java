@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Others
+ *
+ */
+module game {
+}
